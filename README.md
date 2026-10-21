@@ -262,7 +262,7 @@ This repository is maintained for **academic and educational purposes**. The alg
 This repository is intended for **educational use**. No software license is specified here; add a `LICENSE` file if you want to grant explicit reuse and redistribution permissions.
 
 ## Author
-
+**Umme Arifa Zaman Nirjhor**
 **RSA Mathematical Foundations — Python Algorithm Implementations**
 
 > **Understand the mathematics. Solve the problem. Implement the algorithm.**

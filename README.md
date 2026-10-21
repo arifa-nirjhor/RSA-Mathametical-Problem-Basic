@@ -263,6 +263,7 @@ This repository is intended for **educational use**. No software license is spec
 
 ## Author
 **Umme Arifa Zaman Nirjhor**
+
 **RSA Mathematical Foundations — Python Algorithm Implementations**
 
 > **Understand the mathematics. Solve the problem. Implement the algorithm.**
